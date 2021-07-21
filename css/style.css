@@ -17,3 +17,15 @@
 .color{
     color: #ff1b74;
 }
+.bg-color-orange{
+    background: #ffa500;
+}
+.bg-color-pink{
+    background: #da70d6;
+}
+.bg-color-blue{
+    background: #0000ff;
+}
+.width{
+    width: 35%;
+}
